@@ -1,0 +1,6 @@
+streamlit==1.25.0           # Version of Streamlit, adjust to the latest stable version
+PyPDF2==3.0.0               # PDF library to read PDF files
+langchain==0.0.273          # LangChain library for text splitting and chains
+faiss-cpu==1.7.4            # FAISS for vector search, adjust version based on CPU or GPU usage
+google-generativeai==0.2.0  # Google Generative AI library for embeddings and chat
+python-dotenv==1.0.0        # To load environment variables from .env file
